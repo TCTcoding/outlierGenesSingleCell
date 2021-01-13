@@ -1,2 +1,2 @@
 # rareGeneExpression
-Used in elife 10.7554/eLife.54129 to identify rare gene expression patterns in Toxoplasma for anaylsis done in figure 4
+Used in [A single-parasite transcriptional atlas of Toxoplasma gondii reveals novel control of antigenic expression](https://elifesciences.org/articles/54129) figure 5 to identify rare gene expression patterns.
